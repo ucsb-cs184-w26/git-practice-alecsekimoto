@@ -1,6 +1,10 @@
 Hello from the main branch
 
+<<<<<<< HEAD
 Add feature-a
 Add feature-b
 
 new code that makes feature-b work! 
+=======
+Add feature-c
+>>>>>>> dfd5280 (add feature-c)
